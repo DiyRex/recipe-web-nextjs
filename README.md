@@ -1,7 +1,3 @@
-Here's a comprehensive assignment document that covers all the necessary details for your students to develop the Next.js recipe website. This document will guide them step-by-step, including cloning the repository, setting up API endpoints, creating pages, and more.
-
----
-
 # **Next.js Recipe Website Assignment**
 
 ## **Assignment Overview**
@@ -19,17 +15,16 @@ In this assignment, you will work in groups to develop a recipe website using Ne
 Each group member should clone the provided GitHub repository to their local machine.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/DiyRex/recipe-web-nextjs
 ```
 
-Replace `<repository-url>` with the URL provided by your instructor.
 
 ### **1.2. Install Dependencies**
 
 Navigate to the project directory and install the necessary dependencies.
 
 ```bash
-cd your-nextjs-project
+cd recipe-web-nextjs
 npm install
 ```
 
@@ -105,7 +100,7 @@ You need to create the following pages in your Next.js application:
   **Directory Path:** `public/images/recipes`
 
   ```
-  your-nextjs-project/
+  recipe-web-nextjs/
   └── public/
       └── images/
           └── recipes/
@@ -116,8 +111,8 @@ You need to create the following pages in your Next.js application:
 
 ### **3.3. Application Functionality**
 
-1. **Navigation:** 
-   - Add a navigation bar with links to the Home, Search, and Random Recipe pages.
+1. **Navigation & Footer:** 
+   - Add a navigation bar with links to the Home, Search, and Random Recipe pages. and add a         footer as your preference.
    
 2. **Responsive Design:**
    - The website should be fully responsive, meaning it should look good on both desktop and mobile devices.
@@ -129,51 +124,6 @@ You need to create the following pages in your Next.js application:
      - Random recipe endpoint returning an empty response.
 
 4. **Styling:**
-   - Use CSS or a CSS-in-JS library like `styled-components` to style your pages. Ensure consistent styling across all pages.
-
----
-
-## **4. Submission Requirements**
-
-1. **Code Repository:**
-   - Push your code to a GitHub repository created for your group.
-   - Include clear commit messages and a `README.md` file explaining how to run the project.
-
-2. **Presentation:**
-   - Prepare a short presentation (5-10 minutes) explaining your application, the pages you created, and any challenges you faced.
-
-3. **Deployment (Optional):**
-   - If possible, deploy your application using Vercel or another hosting service and provide the URL.
-
----
-
-## **5. Evaluation Criteria**
-
-- **Functionality (40%)**
-  - Does the application meet all the requirements?
-  - Are the API endpoints correctly integrated?
-
-- **Design and UI (30%)**
-  - Is the website visually appealing and user-friendly?
-  - Is the design responsive?
-
-- **Code Quality (20%)**
-  - Is the code well-organized and commented?
-  - Are best practices followed?
-
-- **Presentation (10%)**
-  - Was the presentation clear and informative?
-  - Did the group effectively explain their work?
-
----
-
-## **6. Additional Notes**
-
-- If you have any questions, feel free to ask your instructor during office hours or via the communication channel provided.
-- Make sure to test your application thoroughly before the submission deadline.
-
----
-
-Good luck! We look forward to seeing your creative implementations.
+   - Use CSS or a CSS library like `TailwindCSS` to style your pages. Ensure consistent styling across all pages.
 
 ---
