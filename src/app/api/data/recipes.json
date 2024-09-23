@@ -1,0 +1,482 @@
+[
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "summary": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g pecorino cheese",
+        "50g parmesan",
+        "Freshly ground black pepper",
+        "Salt"
+      ],
+      "instructions": [
+        "Cook the spaghetti in a pot of salted boiling water until al dente.",
+        "In a separate pan, cook the pancetta until crispy.",
+        "Whisk the eggs and cheeses together in a bowl.",
+        "Drain the pasta and mix with the pancetta. Remove from heat.",
+        "Quickly mix in the egg and cheese mixture, stirring constantly to create a creamy sauce.",
+        "Serve immediately with extra cheese and freshly ground black pepper."
+      ],
+      "image": "carbonara.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Chicken Tikka Masala",
+      "summary": "A popular Indian dish with marinated chicken in a creamy tomato sauce.",
+      "ingredients": [
+        "500g chicken breast, cubed",
+        "1 cup yogurt",
+        "2 tbsp garam masala",
+        "1 tbsp ground cumin",
+        "1 tbsp ground coriander",
+        "1 tsp turmeric",
+        "1 tsp chili powder",
+        "Salt",
+        "2 tbsp butter",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 cup tomato puree",
+        "1 cup heavy cream",
+        "Fresh cilantro, for garnish"
+      ],
+      "instructions": [
+        "Marinate the chicken in yogurt, garam masala, cumin, coriander, turmeric, chili powder, and salt for at least 1 hour.",
+        "Cook the chicken in a pan until browned and set aside.",
+        "In the same pan, sauté the onion and garlic in butter until softened.",
+        "Add tomato puree and cook for a few minutes.",
+        "Add the cream and return the chicken to the pan. Simmer until the sauce thickens.",
+        "Garnish with fresh cilantro and serve with rice or naan."
+      ],
+      "image": "chicken_tikka_masala.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Margherita Pizza",
+      "summary": "A simple pizza topped with tomato sauce, fresh mozzarella, and basil.",
+      "ingredients": [
+        "1 pizza dough",
+        "1/2 cup tomato sauce",
+        "200g fresh mozzarella, sliced",
+        "Fresh basil leaves",
+        "2 tbsp olive oil",
+        "Salt"
+      ],
+      "instructions": [
+        "Preheat the oven to 220°C (430°F).",
+        "Roll out the pizza dough and place it on a baking sheet.",
+        "Spread the tomato sauce over the dough, leaving a small border around the edges.",
+        "Top with slices of mozzarella and a sprinkle of salt.",
+        "Bake for 10-12 minutes, or until the crust is golden and the cheese is bubbly.",
+        "Remove from the oven and top with fresh basil leaves and a drizzle of olive oil. Serve immediately."
+      ],
+      "image": "margherita_pizza.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Caesar Salad",
+      "summary": "A crisp salad with romaine lettuce, croutons, and a creamy Caesar dressing.",
+      "ingredients": [
+        "1 head romaine lettuce, chopped",
+        "1/2 cup croutons",
+        "1/4 cup grated parmesan cheese",
+        "1/2 cup Caesar dressing",
+        "1 tbsp lemon juice",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "In a large bowl, toss the lettuce with the Caesar dressing and lemon juice.",
+        "Add the croutons and parmesan cheese, and toss again.",
+        "Season with salt and pepper to taste.",
+        "Serve immediately."
+      ],
+      "image": "caesar_salad.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Guacamole",
+      "summary": "A creamy dip made with mashed avocados, lime juice, and seasonings.",
+      "ingredients": [
+        "2 ripe avocados",
+        "1 lime, juiced",
+        "1/4 cup red onion, finely chopped",
+        "1/4 cup cilantro, chopped",
+        "1 small tomato, diced",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": [
+        "Mash the avocados in a bowl until smooth.",
+        "Add lime juice, red onion, cilantro, and tomato.",
+        "Season with salt and pepper to taste.",
+        "Serve immediately with tortilla chips."
+      ],
+      "image": "guacamole.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Pancakes",
+      "summary": "Fluffy pancakes served with maple syrup and fresh berries.",
+      "ingredients": [
+        "1 cup flour",
+        "2 tbsp sugar",
+        "1 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1/2 tsp salt",
+        "1 cup buttermilk",
+        "1 egg",
+        "2 tbsp melted butter",
+        "Maple syrup and berries, for serving"
+      ],
+      "instructions": [
+        "In a bowl, mix the flour, sugar, baking powder, baking soda, and salt.",
+        "In another bowl, whisk the buttermilk, egg, and melted butter.",
+        "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+        "Heat a non-stick pan over medium heat and pour 1/4 cup of batter for each pancake.",
+        "Cook until bubbles form on the surface, then flip and cook until golden brown.",
+        "Serve with maple syrup and fresh berries."
+      ],
+      "image": "pancakes.jpg"
+    },
+    {
+      "id": 7,
+      "title": "French Onion Soup",
+      "summary": "A rich and flavorful soup made with caramelized onions and topped with melted cheese.",
+      "ingredients": [
+        "4 large onions, thinly sliced",
+        "4 tbsp butter",
+        "1 tbsp flour",
+        "1 cup white wine",
+        "4 cups beef broth",
+        "1 tsp thyme",
+        "Salt and pepper",
+        "Baguette slices",
+        "1 cup grated Gruyère cheese"
+      ],
+      "instructions": [
+        "In a large pot, melt the butter and add the onions. Cook on low heat until caramelized, about 30 minutes.",
+        "Stir in the flour and cook for another 2 minutes.",
+        "Add the white wine and cook until reduced by half.",
+        "Add the beef broth and thyme, and simmer for 20 minutes.",
+        "Season with salt and pepper to taste.",
+        "Ladle the soup into bowls, top with baguette slices and grated cheese.",
+        "Broil in the oven until the cheese is melted and bubbly. Serve hot."
+      ],
+      "image": "french_onion_soup.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Beef Tacos",
+      "summary": "Ground beef seasoned with spices, served in tortillas with toppings.",
+      "ingredients": [
+        "500g ground beef",
+        "1 onion, chopped",
+        "1 tsp cumin",
+        "1 tsp chili powder",
+        "1/2 tsp garlic powder",
+        "Salt",
+        "8 small tortillas",
+        "Lettuce, chopped",
+        "Tomato, diced",
+        "Cheese, shredded",
+        "Sour cream"
+      ],
+      "instructions": [
+        "Cook the ground beef and onion in a pan until browned.",
+        "Add cumin, chili powder, garlic powder, and salt. Cook for another 2 minutes.",
+        "Warm the tortillas in a separate pan.",
+        "Assemble the tacos with the beef mixture and desired toppings.",
+        "Serve with sour cream and salsa."
+      ],
+      "image": "beef_tacos.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Butter Chicken",
+      "summary": "A creamy and mildly spiced Indian chicken curry dish.",
+      "ingredients": [
+        "500g chicken breast, cubed",
+        "1 cup yogurt",
+        "2 tbsp butter",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 tsp ginger paste",
+        "1 cup tomato puree",
+        "1 cup heavy cream",
+        "1 tbsp garam masala",
+        "1 tsp cumin",
+        "1 tsp turmeric",
+        "1 tsp chili powder",
+        "Salt",
+        "Fresh cilantro, for garnish"
+      ],
+      "instructions": [
+        "Marinate the chicken in yogurt, cumin, turmeric, chili powder, and salt for 1 hour.",
+        "Cook the chicken in a pan until browned and set aside.",
+        "In the same pan, melt the butter and sauté the onion, garlic, and ginger until soft.",
+        "Add tomato puree, cream, garam masala, and cook until the sauce thickens.",
+        "Return the chicken to the pan and simmer for 10 minutes.",
+        "Garnish with cilantro and serve with rice or naan."
+      ],
+      "image": "butter_chicken.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Caprese Salad",
+      "summary": "A fresh Italian salad with tomatoes, mozzarella, and basil.",
+      "ingredients": [
+        "4 ripe tomatoes, sliced",
+        "200g fresh mozzarella, sliced",
+        "Fresh basil leaves",
+        "2 tbsp olive oil",
+        "1 tbsp balsamic vinegar",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Arrange the tomato and mozzarella slices alternately on a plate.",
+        "Tuck basil leaves between the slices.",
+        "Drizzle with olive oil and balsamic vinegar.",
+        "Season with salt and pepper to taste.",
+        "Serve immediately."
+      ],
+      "image": "caprese_salad.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Baked Salmon",
+      "summary": "A simple baked salmon fillet with lemon and herbs.",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 tbsp olive oil",
+        "1 lemon, sliced",
+        "2 cloves garlic, minced",
+        "Fresh dill",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Preheat the oven to 200°C (400°F).",
+        "Place the salmon fillets on a baking sheet lined with foil.",
+        "Drizzle with olive oil and top with lemon slices, garlic, dill, salt, and pepper.",
+        "Bake for 12-15 minutes, or until the salmon is cooked through.",
+        "Serve with a side of vegetables or rice."
+      ],
+      "image": "baked_salmon.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Vegetable Stir-Fry",
+      "summary": "A colorful mix of vegetables stir-fried with soy sauce and garlic.",
+      "ingredients": [
+        "1 cup broccoli florets",
+        "1 cup bell peppers, sliced",
+        "1 cup carrots, julienned",
+        "1 cup snow peas",
+        "2 tbsp soy sauce",
+        "2 cloves garlic, minced",
+        "1 tbsp vegetable oil",
+        "Salt and pepper",
+        "Cooked rice, for serving"
+      ],
+      "instructions": [
+        "Heat oil in a large pan or wok over high heat.",
+        "Add the garlic and stir-fry for 30 seconds.",
+        "Add the broccoli, bell peppers, carrots, and snow peas.",
+        "Stir-fry for 5-7 minutes, or until the vegetables are tender-crisp.",
+        "Add the soy sauce and season with salt and pepper.",
+        "Serve immediately with cooked rice."
+      ],
+      "image": "vegetable_stir_fry.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Chocolate Chip Cookies",
+      "summary": "Classic cookies with crispy edges and a soft, chewy center.",
+      "ingredients": [
+        "1 cup butter, softened",
+        "1 cup white sugar",
+        "1 cup brown sugar",
+        "2 eggs",
+        "2 tsp vanilla extract",
+        "3 cups flour",
+        "1 tsp baking soda",
+        "1/2 tsp baking powder",
+        "1/2 tsp salt",
+        "2 cups chocolate chips"
+      ],
+      "instructions": [
+        "Preheat the oven to 180°C (350°F).",
+        "In a large bowl, cream together the butter and sugars.",
+        "Beat in the eggs and vanilla extract.",
+        "In a separate bowl, mix the flour, baking soda, baking powder, and salt.",
+        "Gradually add the dry ingredients to the wet ingredients and mix until combined.",
+        "Stir in the chocolate chips.",
+        "Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes.",
+        "Cool on a wire rack before serving."
+      ],
+      "image": "chocolate_chip_cookies.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Greek Salad",
+      "summary": "A refreshing salad with cucumbers, tomatoes, olives, and feta cheese.",
+      "ingredients": [
+        "2 cucumbers, chopped",
+        "4 ripe tomatoes, chopped",
+        "1 red onion, thinly sliced",
+        "1 cup Kalamata olives",
+        "200g feta cheese, crumbled",
+        "1/4 cup olive oil",
+        "2 tbsp red wine vinegar",
+        "1 tsp dried oregano",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "In a large bowl, combine the cucumbers, tomatoes, red onion, and olives.",
+        "In a small bowl, whisk together the olive oil, vinegar, oregano, salt, and pepper.",
+        "Pour the dressing over the salad and toss to combine.",
+        "Top with crumbled feta cheese and serve immediately."
+      ],
+      "image": "greek_salad.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Tom Yum Soup",
+      "summary": "A spicy and sour Thai soup with shrimp, mushrooms, and lemongrass.",
+      "ingredients": [
+        "500g shrimp, peeled and deveined",
+        "1 liter chicken broth",
+        "2 stalks lemongrass, chopped",
+        "3 kaffir lime leaves",
+        "2 tbsp fish sauce",
+        "1 tbsp lime juice",
+        "2 red chili peppers, sliced",
+        "200g mushrooms, sliced",
+        "1 tomato, chopped",
+        "Fresh cilantro, for garnish"
+      ],
+      "instructions": [
+        "Bring the chicken broth to a boil in a large pot.",
+        "Add lemongrass, kaffir lime leaves, fish sauce, lime juice, and chili peppers.",
+        "Add the mushrooms and tomato, and simmer for 5 minutes.",
+        "Add the shrimp and cook until they turn pink.",
+        "Garnish with fresh cilantro and serve hot."
+      ],
+      "image": "tom_yum_soup.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Egg Fried Rice",
+      "summary": "A quick and easy fried rice dish with eggs and vegetables.",
+      "ingredients": [
+        "2 cups cooked rice",
+        "2 eggs, beaten",
+        "1 cup mixed vegetables (peas, carrots, corn)",
+        "2 tbsp soy sauce",
+        "1 tbsp vegetable oil",
+        "2 green onions, chopped",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Heat the oil in a large pan or wok over medium-high heat.",
+        "Add the eggs and scramble until cooked through. Remove from the pan and set aside.",
+        "Add the mixed vegetables to the pan and stir-fry for 3-4 minutes.",
+        "Add the cooked rice and soy sauce, and stir-fry for another 2 minutes.",
+        "Return the scrambled eggs to the pan and stir to combine.",
+        "Season with salt and pepper, and garnish with green onions. Serve hot."
+      ],
+      "image": "egg_fried_rice.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Bruschetta",
+      "summary": "Toasted bread topped with a mixture of tomatoes, garlic, and basil.",
+      "ingredients": [
+        "1 baguette, sliced",
+        "2 cups tomatoes, diced",
+        "2 cloves garlic, minced",
+        "1/4 cup fresh basil, chopped",
+        "2 tbsp olive oil",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Preheat the oven to 180°C (350°F).",
+        "Brush the baguette slices with olive oil and toast in the oven for 5-7 minutes.",
+        "In a bowl, combine the tomatoes, garlic, basil, olive oil, salt, and pepper.",
+        "Spoon the tomato mixture onto the toasted baguette slices.",
+        "Serve immediately."
+      ],
+      "image": "bruschetta.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Pad Thai",
+      "summary": "A classic Thai noodle dish with shrimp, tofu, and a tangy sauce.",
+      "ingredients": [
+        "200g rice noodles",
+        "100g shrimp, peeled and deveined",
+        "100g firm tofu, cubed",
+        "2 eggs, beaten",
+        "1 cup bean sprouts",
+        "1/4 cup roasted peanuts, crushed",
+        "2 tbsp fish sauce",
+        "2 tbsp tamarind paste",
+        "1 tbsp brown sugar",
+        "2 tbsp vegetable oil",
+        "2 green onions, chopped",
+        "Lime wedges, for serving"
+      ],
+      "instructions": [
+        "Cook the rice noodles according to package instructions and set aside.",
+        "In a bowl, mix the fish sauce, tamarind paste, and brown sugar.",
+        "Heat the oil in a large pan or wok over medium-high heat.",
+        "Add the tofu and shrimp, and cook until the shrimp is pink.",
+        "Push the shrimp and tofu to one side of the pan, and add the eggs. Scramble until cooked.",
+        "Add the noodles and sauce mixture to the pan, and toss to combine.",
+        "Stir in the bean sprouts and green onions.",
+        "Serve with crushed peanuts and lime wedges."
+      ],
+      "image": "pad_thai.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Margarita",
+      "summary": "A classic cocktail made with tequila, lime juice, and orange liqueur.",
+      "ingredients": [
+        "2 oz tequila",
+        "1 oz lime juice",
+        "1 oz orange liqueur",
+        "Salt, for rimming the glass",
+        "Lime wedge, for garnish"
+      ],
+      "instructions": [
+        "Rim a glass with salt and fill it with ice.",
+        "In a shaker, combine the tequila, lime juice, and orange liqueur with ice.",
+        "Shake well and strain into the prepared glass.",
+        "Garnish with a lime wedge and serve."
+      ],
+      "image": "margarita.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Miso Soup",
+      "summary": "A traditional Japanese soup made with miso paste, tofu, and seaweed.",
+      "ingredients": [
+        "4 cups dashi broth",
+        "3 tbsp miso paste",
+        "100g tofu, cubed",
+        "1/4 cup green onions, chopped",
+        "1 sheet nori, cut into strips"
+      ],
+      "instructions": [
+        "Bring the dashi broth to a simmer in a pot.",
+        "Dissolve the miso paste in a small amount of warm broth, then add to the pot.",
+        "Add the tofu and cook for 2-3 minutes.",
+        "Add the green onions and nori strips.",
+        "Serve hot."
+      ],
+      "image": "miso_soup.jpg"
+    }
+  ]
+  
